@@ -1,0 +1,234 @@
+/*start menubar*/
+.menu_bar {
+	background-image: url(../images/Escape_bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	min-height: 600px;
+}
+.custom_nav ul li a {
+	color: #ffffff !important;
+	font-size: 18px;
+	padding: 40px 20px !important;
+}
+.banner_title {
+	padding-top: 40px;
+}
+
+.banner_title h4 {
+	padding-top:60px;
+	padding-bottom: 20px
+	font-size: 25px;
+	color: #C5C4CC;
+}
+.banner_title h1 {
+	font-size: 55px;
+	text-transform: uppercase;
+	color: #fff;
+	padding-bottom: 50px;
+}
+
+.custom_btn {
+	height: 50px;
+	width: 200px;
+	color: #fff;
+	border:1px solid #fff;
+	margin-bottom: 10px;
+}
+
+.custom_btn:hover {
+	background-color: #2A2545;
+}
+
+/*end menubar*/
+
+/*start development*/
+.w_development {
+	min-height: 450px;
+	padding: 90px 0;
+	color: #222222;
+
+}
+
+.common_title {
+}
+.common_title h1 {
+	font-size: 45px;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 300;
+}
+.common_title span {
+	font-size: 50px;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 700;
+}
+
+.common_title p {
+  color: #C0C0C0;
+  font-size: 18px;
+}
+.common_img {
+	/*float: right;*/
+}
+.common_img img {
+   height: 250px;
+   width:250px;
+}
+.branding {
+	min-height: 350px;
+	background-color: #FAFAFA;
+	padding: 20px 0px;
+}
+
+/*end development*/
+
+/*start services*/
+ .services {
+   padding-top: 70px;
+   padding-bottom: 70px;
+ }
+ .sevices_intro {
+  margin-bottom: 20px !important;
+ }
+ .single_services {
+ 	padding-top: 56px;
+ }
+/*end single_feature*/
+
+/*start clients section*/
+.clients {
+  background-image: url(../images/clients.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 700px;
+  padding:100px 0px;
+}
+
+.clients_title p{	
+	font-size: 16px;
+	color:#777777;
+}
+
+.clients_title h1{
+    font-size: 45px;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 300;
+	color: #222222;  
+}
+
+.clients_title span {
+	font-size: 50px;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 700;
+	color: #222222;
+}
+.lead {
+	margin-bottom: 10px;
+	color: #879ECC;
+
+}
+.mask {
+	margin-top: 10px;
+}
+.jumbotron {
+	margin-top: 30px;
+	padding:20px 117px!important;
+}
+/*end clients section*/
+
+/*start media*/
+.media {
+	min-height: 150px;
+	padding: 40px 0px;
+}
+ .single_img {
+ 		padding-top: 15px;
+		padding-bottom: 10px;
+ }
+/*end media*/
+
+/*start amezing team*/
+.amezing_team {
+	background-image: url(../images/team.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	padding: 40px 0px;
+}
+ .team_title h1 {
+    font-size: 50px;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 300;
+	color: #AAAAAA;
+ }
+ .team_title span {
+    font-size: 55px;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 700;
+	color: white;
+ }
+.team_title p {
+	padding: 0px 0px;
+	color: #777777;
+}
+.slider{
+ margin-top: 45px;
+}
+.slider h5,h6 {
+  font-size: 18px!important;
+  color: white;
+  padding-top: 15px;
+  line-height: 20px;
+}
+
+.team_intro {
+	margin-top:50px;
+	font-size: 22px;
+	color: white;
+}
+.social_icons i {
+  background-color: white;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  padding-top: 20px;
+}
+/*end amezing team*/
+
+/*footer*/
+
+.footer {
+	background-image: url(../images/form_bg.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+  padding: 50px 0px;
+}
+.footer_info h1 {
+  color: #D9E0EF;
+  font-size: 45px;
+}
+.footer_info span {
+  color: white;
+  font-size: 45px;
+}
+.footer_info p, .address {
+  color: #D9E0EF;
+  font-size: 16px;
+}
+.icon i {
+  color: white;
+  font-size: 25px;
+  height: 50px;
+}
+.footer_bottom p {
+	padding-top:40px;
+	font-size: 16px;
+	color: #CFCFCF;
+}
+
+/*footer*/
+
+
+

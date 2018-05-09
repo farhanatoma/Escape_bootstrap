@@ -1,0 +1,161 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+  .banner_title h4 {
+   font-size: 16px!important;
+  }
+  .banner_title h1 {
+    font-size: 25px!important;
+  }
+	.common_title h1, p {
+		text-align: center;
+	}
+  .common_title span {
+    font-size: 42px!important;
+  }
+	.common_img {
+		/*padding-left: 5px;
+		padding-right: 5px;*/
+    text-align: center;
+		margin-top: 30px;
+		margin-bottom: 15px;
+	}
+	.common_img img {
+		width: 290px;
+		height: 250px;
+	}
+
+	.single_services, .sevices_intro h6 {
+		text-align: center;
+	}
+	.mask {
+		text-align: center;
+	}
+	.jumbotron p {
+		font-size: 11px;
+		text-align: justify;
+	}
+	.team_title h1,span {
+      font-size: 10px!important;
+	}
+	.team_intro p {
+		font-size: 13px!important;
+	}
+  .mask {
+    text-align: center;
+  }
+  .footer_info span {
+   color: white;
+   font-size: 32px!important;
+}
+  .icon, .address  p {
+    /*text-align: center;*/
+    padding-top: 5px;
+    padding-bottom:5px;
+    font-size: 15px;
+  }
+  input {
+    margin-top: 29px;
+    margin-bottom: 29px;
+  }
+  .footer_info h1 {
+    font-size: 22px;
+  }
+  .footer_info span {
+    font-size: 22px!important;
+  }
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+   .common_title h1,p {
+   	font-size: 24px;
+   	text-align: justify;
+   }
+   .common_title span {
+     font-size: 24px;
+   }
+   .common_img {
+   	 margin-top: 95px;
+   }
+   .sevices_intro h6 {
+     font-size: 13px;
+     font-weight: bold;
+   }
+   .sevices_intro p {
+      font-size: 13px;
+      text-align: justify;
+
+   }
+  
+   .clients_title p, .mask {
+   	text-align: center;
+   }
+   .team_title  {
+         text-align: center;
+   }
+   .team_intro p{
+   	font-size: 18px!important;
+   	text-align: center;
+   }
+   .slider h5,h6 {
+    font-size: 16px!important;
+    line-height: 6px;
+   }
+   .icon i {
+    padding-top: 10px;
+   }
+   .address{
+    font-size: 18px!important;
+   }
+   form {
+    margin-top: 20px;
+   }
+  
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+    .common_title h1 {
+    	font-size: 40px;
+    }
+    .common_title p {
+      font-size: 15px;
+      text-align: justify;
+    }
+    .common_title span {
+    	font-size: 40px;
+    }
+    .common_img img {
+       width: 290px;
+	   height: 250px;
+    }
+    .jumbotron {
+    margin-top: 10px;
+	padding:5px 70px;
+    }
+    .jumbotron p {
+    	font-size: 10px!important;
+    }
+
+    .team_intro {
+   	font-size: 16px!important;
+   }
+
+    .address {
+      font-size: 14px;
+    }
+ }
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+  .mask {
+  	margin-top: 30px;
+  }
+
+ }
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+ }
